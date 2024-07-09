@@ -1,2 +1,3 @@
 # e-commerce_website
- webkriti
+ This is a e-commerce shoe website which is fully functional and responsive 
+ 
